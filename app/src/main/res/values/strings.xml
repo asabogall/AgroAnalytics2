@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AgroAnalytics</string>
+    <string name="load_image">Logo Imagen Principal</string>
+    <string name="content_description_logo">Logo Imagen Principal</string>
+    <string name="plain_text_intro">Toma una foto de tu suelo y obten un analisis detallado</string>
+    <string name="btn_ingreso">INGRESAR</string>
+    <string name="enlace_registro">Registrarse</string>
+    <string name="title_activity_inicio_sesion">InicioSesion</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="content_description_logo_2">Logo Imagen Dos</string>
+    <string name="user_login_description">Correo Electronico</string>
+</resources>
