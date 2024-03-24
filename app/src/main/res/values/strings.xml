@@ -15,5 +15,19 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="content_description_logo_2">Logo Imagen Dos</string>
-    <string name="user_login_description">Correo Electronico</string>
+    <string name="user_login_description">Correo Electrónico:</string>
+    <string name="user_password_description">Contraseña:</string>
+    <string name="btn_login">INICIAR SESION</string>
+    --Content of register
+    <string name="fondo_registro">Fondo Cafe</string>
+    <string name="logo_image_3">Logo Blanco</string>
+    <string name="box_user_name">Nombres</string>
+    <string name="box_last_name">Apellidos</string>
+    <string name="box_email">Correo Electronico</string>
+    <string name="box_password">Contraseña</string>
+    <string name="box_re_password">Repita su contraseña</string>
+    <string name="check_terms">Acepta Terminos</string>
+    <string name="text_link_terms">Link a Terminos</string>
+    <string name="btn_register">Button Registro</string>
+    <string name="text_link_login">Link Login</string>
 </resources>

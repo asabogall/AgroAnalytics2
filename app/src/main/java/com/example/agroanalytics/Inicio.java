@@ -6,10 +6,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
+
 import java.util.Timer;
 import java.util.TimerTask;
 
 public class Inicio extends AppCompatActivity {
+    private TextView Registrarse;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,5 +27,15 @@ public class Inicio extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Registrarse = findViewById(R.id.enlace_registro);
+
+        Registrarse.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Inicio.this, Registro.class));
+            }
+        });
+
     }
 }
